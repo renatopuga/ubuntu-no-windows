@@ -169,11 +169,7 @@ sudo apt-get install -y bwa samtools freebayes
 
 ### Instalando Annovar (use apenas para pesquisa) 
 
-Faça download do arquivo do `annovar.tar.gz`: 
-
-* Google Drive: 
-  * https://drive.google.com/drive/folders/1FjReBQrm-JVGgCMZDtYaufoR4JzjPlTz 
-
+Solitice direto no site do Annovar http://download.openbioinformatics.org/annovar_download_form.php e se seu e-mail estiver na `whitelist` você receberá o link para download da versão mais nova.
 
 
 Salve no seu diretório `app`. Agora, acesse o terminal do Ubuntu, vá até o diretório `app` e digite os comandos:
@@ -246,7 +242,7 @@ Para não travar o computador, principalmente quando trabalhamos com arquivo gra
 #### 1. Download do arquivo .fa chr22
 
 * Clique no link e salve os arquivos `references_hg19_chr22.fa` e `references_hg19_chr22.fa.fai` no diretório `/mnt/c/puga/Desktop/bioinfo/referencia`
-  * https://drive.google.com/drive/folders/1_1ZwKQB6XC9ObYRUYt3AvlpS2h3AueF2 
+  * https://drive.google.com/drive/folders/12klZkLZcGteEu8H2WCkP9h4ql212h6he?usp=sharing
 
 
 
